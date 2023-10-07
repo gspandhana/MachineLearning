@@ -1,7 +1,7 @@
 # A repository of Data Science and Machine Learning Projects
 Author: Spandhana Gonuguntla
 
-Datasets are from the textbook **"An Introduction to Statistical Learning"**, downloaded from https://www.statlearning.com/.
+Datasets are from the textbook **"An Introduction to Statistical Learning"**, downloaded from https://www.statlearning.com/, and they are also available in this repository in the folder named 'Datasets'.
 
 This repository contains an exploration of various machine learning models. 
 |FileName       | Topic         |  Dataset         |

@@ -10,5 +10,5 @@ This repository contains an exploration of various machine learning models.
 | P2_LinearRegression  | Linear regression over one predictor and one response variable | Advertising.csv  |
 | P3_Multiple_linearRegression  | Exploring the effect of multiple features on a response variable  | Advertising.csv  |
 | P4_MultipleRegression  | Creating a Design Matrix when categorical variables are features  | credit.csv  |
-| P4_Multicollinearity  | Exploring the effects of collinear features on model parameters  | colinearity.csv  |
+| P5_Multicollinearity  | Exploring the effects of collinear features on model parameters  | colinearity.csv  |
 
